@@ -9,7 +9,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 ```bash
 pip install -r requirements.txt
 ```
-
+Simply execute ```snake_game.py``` by terminal or just with clicks! 
 ## Demonstration 
 
 ![alt text](https://i.ibb.co/8MkBvSj/home-screen.png)
