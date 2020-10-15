@@ -2,8 +2,6 @@ import pygame
 import random
 from math import sqrt
 
-"""pip install -r requirements.txt
-"""
 # Creating a window
 pygame.init()
 pygame.display.set_caption("'97 Retro Snake Game!")
